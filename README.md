@@ -1,4 +1,4 @@
-# Agentic Movie RAG System (Professional Edition)
+# Agentic Movie RAG System 
 
 This is amulti-tool Agentic RAG system built for the Movie based Analysis. It features a custom **Deterministic Pipeline**.
 
