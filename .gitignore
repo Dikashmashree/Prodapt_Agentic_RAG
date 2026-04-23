@@ -1,8 +1,4 @@
 .env
 __pycache__/
 .ipynb_checkpoints/
-scratch/
-diag_run.py
-test_agent.py
-list_models.py
 *.pyc
