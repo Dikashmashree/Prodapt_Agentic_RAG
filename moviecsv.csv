@@ -1,0 +1,52 @@
+Title,Year,ReleaseType,Budget_M$,OpeningWeekend_M$,DomesticGross_M$,InternationalGross_M$,WorldwideGross_M$,RottenTomatoes_%,AwardsCount,Director
+Inception,2010,Original,160,62.8,293.7,533.2,826.9,87,4,Christopher Nolan
+Inception,2020,Anniversary Re-release,160,9.6,0.01,9.57,9.58,87,0,Christopher Nolan
+Inception,2010,IMAX Expansion,160,5.0,20.0,50.0,70.0,87,0,Christopher Nolan
+Inception,2011,International Re-release,160,3.0,10.0,40.0,50.0,87,0,Christopher Nolan
+Titanic,1997,Original,200,28.6,674.4,1548.6,2223.0,88,11,James Cameron
+Titanic,2012,3D Re-release,200,57.9,57.0,293.0,350.4,88,0,James Cameron
+Titanic,2017,20th Anniversary Re-release,200,8.0,20.0,50.0,70.0,88,0,James Cameron
+Titanic,2023,25th Anniversary Re-release,200,6.0,15.0,40.0,55.0,88,0,James Cameron
+Fight Club,1999,Original,65,11.0,37.0,63.8,100.8,79,0,David Fincher
+Fight Club,2000,International Expansion,65,2.0,40.0,70.0,110.0,79,0,David Fincher
+Fight Club,2009,10th Anniversary Re-release,65,1.0,5.0,10.0,15.0,79,0,David Fincher
+Fight Club,2019,20th Anniversary Re-release,65,1.5,7.0,15.0,22.0,79,0,David Fincher
+Dune: Part One,2021,Original,165,41.0,108.9,301.8,410.7,83,6,Denis Villeneuve
+Dune: Part One,2021,HBO Max Release,165,0.0,0.0,0.0,0.0,83,0,Denis Villeneuve
+Dune: Part One,2022,International Expansion,165,5.0,20.0,60.0,80.0,83,0,Denis Villeneuve
+Dune: Part One,2023,Re-release,165,3.0,10.0,30.0,40.0,83,0,Denis Villeneuve
+Parasite,2019,South Korea,11.4,0.39,72.0,186.4,258.4,99,219,Bong Joon Ho
+Parasite,2019,US Release,11.4,0.4,53.8,209.5,263.4,99,219,Bong Joon Ho
+Parasite,2020,International Expansion,11.4,0.5,60.0,220.0,280.0,99,219,Bong Joon Ho
+Parasite,2021,Re-release,11.4,0.2,10.0,30.0,40.0,99,219,Bong Joon Ho
+Black Swan,2010,Original,13,1.4,107.8,224.3,332.1,85,61,Darren Aronofsky
+Black Swan,2011,International Expansion,13,0.5,120.0,230.0,350.0,85,61,Darren Aronofsky
+Black Swan,2015,Re-release,13,0.2,5.0,10.0,15.0,85,61,Darren Aronofsky
+Black Swan,2020,Anniversary Screening,13,0.1,2.0,5.0,7.0,85,61,Darren Aronofsky
+2001: A Space Odyssey,1968,Original,10.5,0.6,60.5,8.3,68.9,90,1,Stanley Kubrick
+2001: A Space Odyssey,1974,Re-release,10.5,0.5,65.0,95.0,160.0,90,1,Stanley Kubrick
+2001: A Space Odyssey,2001,IMAX Re-release,10.5,0.3,10.0,20.0,30.0,90,1,Stanley Kubrick
+2001: A Space Odyssey,2018,50th Anniversary Re-release,10.5,0.4,15.0,25.0,40.0,90,1,Stanley Kubrick
+The Godfather,1972,Original,7,0.3,136.4,133.5,270.0,97,3,Francis Ford Coppola
+The Godfather,1974,Re-release,7,0.2,140.0,120.0,260.0,97,3,Francis Ford Coppola
+The Godfather,1997,25th Anniversary Re-release,7,0.5,20.0,30.0,50.0,97,3,Francis Ford Coppola
+The Godfather,2022,50th Anniversary Re-release,7,0.6,25.0,35.0,60.0,97,3,Francis Ford Coppola
+Dead Poets Society,1989,Original,16.4,20.0,95.9,143.6,239.5,84,3,Peter Weir
+Dead Poets Society,1990,International Expansion,16.4,5.0,100.0,145.0,245.0,84,3,Peter Weir
+Dead Poets Society,2009,20th Anniversary Re-release,16.4,2.0,10.0,20.0,30.0,84,3,Peter Weir
+Dead Poets Society,2019,30th Anniversary Re-release,16.4,3.0,15.0,25.0,40.0,84,3,Peter Weir
+Kannathil Muthamittal,2002,Original,2.5,0.3,2.3,0.2,2.5,80,6,Mani Ratnam
+Kannathil Muthamittal,2003,Festival Circuit,2.5,0.1,0.5,0.5,1.0,80,6,Mani Ratnam
+Kannathil Muthamittal,2012,10th Anniversary Screening,2.5,0.05,0.2,0.3,0.5,80,6,Mani Ratnam
+Kannathil Muthamittal,2022,20th Anniversary Screening,2.5,0.1,0.3,0.4,0.7,80,6,Mani Ratnam
+La La Land,2016,Original,30,11.2,151.1,352.8,503.9,91,6,Damien Chazelle
+La La Land,2017,International Expansion,30,0.9,160.0,360.0,520.0,91,6,Damien Chazelle
+La La Land,2021,Re-release,30,1.0,20.0,40.0,60.0,91,6,Damien Chazelle
+La La Land,2026,10th Anniversary Screening,30,0.5,10.0,20.0,30.0,91,6,Damien Chazelle
+The Red Turtle,2016,Original,11,0.02,0.92,5.79,6.71,93,1,Michaël Dudok de Wit
+The Red Turtle,2017,Festival Release,11,0.01,0.5,1.0,1.5,93,1,Michaël Dudok de Wit
+The Red Turtle,2020,Re-release,11,0.02,0.3,0.7,1.0,93,1,Michaël Dudok de Wit
+The Red Turtle,2025,Anniversary Screening,11,0.01,0.2,0.5,0.7,93,1,Michaël Dudok de Wit
+Tokyo Godfathers,2003,Original,2.4,0.03,0.37,0.48,0.85,92,2,Satoshi Kon
+Tokyo Godfathers,2004,US Release,2.4,0.02,0.2,0.3,0.5,92,2,Satoshi Kon
+Tokyo Godfathers,2013,10th Anniversary Screening,2.4,0.01,0.1,0.2,0.3,92,2,S

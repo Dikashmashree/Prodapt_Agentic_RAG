@@ -1,0 +1,32 @@
+TYPE: Movie Review
+MOVIE: Dead Poets Society
+SOURCE: Chicago Tribune
+AUTHOR: Gene Siskel
+YEAR: 1989
+GENRE: Drama
+
+---
+THEMES:
+Individualism versus conformity
+Power of art and poetry
+Youthful rebellion
+Mentorship and inspiration
+Tragedy of repression
+---
+TONE:
+Inspirational
+Bittersweet
+Reflective
+Poignant
+Idealistic
+---
+REVIEW:
+Peter Weir’s Dead Poets Society is a stirring drama about the transformative power of art and the courage to live authentically. Set in a conservative New England boarding school in 1959, the film follows English teacher John Keating, played by Robin Williams, who inspires his students to embrace poetry as a means of self-expression and to “seize the day.” His unconventional methods challenge the rigid traditions of the institution, sparking both liberation and conflict among the boys.
+
+The performances are deeply affecting, with Williams delivering a nuanced portrayal that balances humor, warmth, and gravitas. Robert Sean Leonard and Ethan Hawke stand out among the students, embodying youthful vulnerability and the struggle between personal desire and societal expectation. Weir’s direction emphasizes atmosphere, contrasting the austere school environment with moments of lyrical freedom, while Maurice Jarre’s score underscores the film’s emotional resonance.
+
+Culturally, Dead Poets Society became a touchstone for discussions about education, conformity, and the role of art in shaping identity. Its iconic lines — “O Captain! My Captain!” — entered popular consciousness, symbolizing resistance against oppressive authority. The film’s tragic conclusion underscores the costs of repression, while its enduring message continues to inspire audiences to embrace individuality and creativity.
+---
+VERDICT:
+Dead Poets Society is a moving and timeless exploration of youth, art, and defiance, delivering both inspiration and heartbreak in its portrayal of the struggle for authenticity.
+---

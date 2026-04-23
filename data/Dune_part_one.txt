@@ -1,0 +1,32 @@
+TYPE: Movie Review
+MOVIE: Dune: Part One
+SOURCE: Variety
+AUTHOR: Owen Gleiberman
+YEAR: 2021
+GENRE: Science Fiction / Adventure / Drama
+
+---
+THEMES:
+Destiny and prophecy
+Colonialism and exploitation
+Family legacy and loyalty
+Religion and power
+Survival and betrayal
+---
+TONE:
+Epic
+Somber
+Philosophical
+Visually majestic
+Tense
+---
+REVIEW:
+Denis Villeneuve’s Dune: Part One adapts Frank Herbert’s monumental science fiction novel with a sense of grandeur and reverence. The film follows Paul Atreides, played by Timothée Chalamet, as his family accepts stewardship of the desert planet Arrakis, home to the invaluable spice melange. Betrayal and political intrigue soon plunge Paul into a struggle for survival, setting the stage for his transformation into a prophesied leader.
+
+Villeneuve’s direction emphasizes scale and atmosphere, with sweeping desert landscapes and monumental set designs that evoke both awe and dread. The cinematography by Greig Fraser and Hans Zimmer’s thunderous score combine to create a sensory experience that feels both alien and immersive. Performances by Rebecca Ferguson, Oscar Isaac, and Zendaya enrich the narrative, grounding the epic scope in human emotion and vulnerability.
+
+Culturally, Dune: Part One was hailed as a triumph of adaptation, succeeding where earlier attempts faltered. Its exploration of colonialism, ecological fragility, and religious manipulation resonates strongly in contemporary discourse. The film’s deliberate pacing and emphasis on world-building reflect Villeneuve’s commitment to honoring Herbert’s vision, while also positioning the story as a multi-part saga.
+---
+VERDICT:
+Dune: Part One is a visually stunning and intellectually ambitious epic, laying a powerful foundation for Villeneuve’s adaptation while capturing the timeless relevance of Herbert’s themes.
+---

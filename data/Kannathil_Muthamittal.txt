@@ -1,0 +1,32 @@
+TYPE: Movie Review
+MOVIE: Kannathil Muthamittal
+SOURCE: The Hindu
+AUTHOR: Malathi Rangarajan
+YEAR: 2002
+GENRE: Drama / War / Family
+
+---
+THEMES:
+Identity and belonging
+Motherhood and sacrifice
+War and displacement
+Family bonds and conflict
+Search for truth
+---
+TONE:
+Emotional
+Poignant
+Realistic
+Somber
+Reflective
+---
+REVIEW:
+Mani Ratnam’s Kannathil Muthamittal is a deeply moving drama that intertwines personal identity with the broader backdrop of civil conflict. The story follows Amudha, a young girl who learns she is adopted and insists on meeting her biological mother in war-torn Sri Lanka. Her journey becomes both a personal quest for belonging and a confrontation with the harsh realities of political violence and displacement.
+
+Ratnam’s direction balances intimate family drama with the larger socio-political context. The performances are compelling: Keerthana Parthiepan captures Amudha’s innocence and determination, while Simran and Madhavan portray adoptive parents torn between love and fear. The film’s cinematography juxtaposes the warmth of familial bonds with the devastation of war, while A.R. Rahman’s evocative score heightens the emotional resonance.
+
+Culturally, Kannathil Muthamittal was acclaimed for its bold exploration of adoption, identity, and the human cost of conflict. It brought attention to the Sri Lankan civil war through a deeply personal lens, making the political intensely relatable. The film remains one of Mani Ratnam’s most celebrated works, praised for its sensitivity and courage in tackling complex themes.
+---
+VERDICT:
+Kannathil Muthamittal is a powerful and heartfelt film that blends family drama with political commentary, offering a poignant reflection on identity, love, and the scars of war.
+---

@@ -1,0 +1,36 @@
+TYPE: Movie Review
+MOVIE: Raazi
+SOURCE: Times of India
+AUTHOR: eTimes
+YEAR: 2018
+GENRE: Spy / Thriller / Drama
+
+---
+THEMES:
+Patriotism versus morality
+Personal cost of conflict
+Duty and deception
+Humanization of the enemy
+Emotional conflict
+Human conflict
+---
+TONE:
+Intense
+Emotional
+Patriotic
+Intimate
+Suspenseful
+---
+REVIEW:
+Meghna Gulzar’s film Raazi is a rare spy thriller that prioritizes emotional stakes over physical action. Based on the novel Calling Sehmat, it follows a young Kashmiri woman turned undercover operative during the 1971 Indo-Pak conflict.
+
+Alia Bhatt portrays Sehmat, a student trained to infiltrate a high-profile Pakistani military family via marriage. The film builds tension through quiet moments of espionage and the constant threat of exposure within a domestic setting.
+
+The narrative distinguishes itself by refusing to demonize its subjects. By portraying the Pakistani family with sincerity and warmth, the film elevates the tragedy of Sehmat’s betrayal, highlighting the internal conflict between duty and affection.
+
+The direction is meticulous, ramping up suspense through narrow escapes and psychological pressure. The soundtrack further emphasizes the sacrifice involved, avoiding jingoism in favor of a poignant exploration of what it means to serve one's country.
+---
+VERDICT:
+A masterfully crafted thriller that swaps explosions for raw emotion, offering a haunting look at the heavy psychological price of patriotism.
+
+---

@@ -1,0 +1,32 @@
+TYPE: Movie Review
+MOVIE: Parasite
+SOURCE: The New York Times
+AUTHOR: Manohla Dargis
+YEAR: 2019
+GENRE: Drama / Thriller
+
+---
+THEMES:
+Class inequality and social divide
+Greed and ambition
+Family loyalty and deception
+Illusion of upward mobility
+Violence born of desperation
+---
+TONE:
+Darkly comedic
+Suspenseful
+Satirical
+Unsettling
+Tragic
+---
+REVIEW:
+Bong Joon Ho’s Parasite is a masterful blend of social satire and thriller, dissecting the stark divide between the wealthy Park family and the struggling Kim clan. The film begins with humor and ingenuity as the Kims infiltrate the Parks’ household by posing as skilled workers. What starts as a clever con quickly spirals into a tense and violent confrontation, exposing the fragility of class boundaries.
+
+Visually, Bong crafts a meticulous contrast between the Parks’ modern, spacious home and the Kims’ cramped semi-basement apartment. This architectural symbolism underscores the film’s critique of inequality. The ensemble cast, led by Song Kang-ho, delivers nuanced performances that balance comedy, pathos, and menace, making the characters both sympathetic and morally ambiguous.
+
+Parasite’s cultural impact was seismic. It became the first non-English language film to win the Academy Award for Best Picture, sparking global conversations about class struggle and the universality of economic disparity. Its sharp social commentary, combined with genre-bending storytelling, resonated across cultures and cemented Bong Joon Ho’s reputation as a visionary filmmaker.
+---
+VERDICT:
+Parasite is a groundbreaking work of cinema, blending biting social critique with gripping suspense, and stands as one of the most important films of the 21st century.
+---

@@ -1,0 +1,35 @@
+TYPE: Movie Review
+MOVIE: Inception
+SOURCE: The Guardian
+AUTHOR: Peter Bradshaw
+YEAR: 2010
+GENRE: Sci-Fi / Thriller
+
+---
+THEMES:
+Subconscious exploration
+Architecture of dreams
+Emotional guilt and loss
+Industrial espionage
+Time dilation and relativity
+---
+TONE:
+Intellectual
+Visually spectacular
+Claustrophobic
+Complex
+---
+REVIEW:
+Christopher Nolan’s Inception is a "cerebro-tech thriller" that explores the boundaries of reality. It functions as a high-concept blueprint for spectacular entertainment, using a dream-within-a-dream structure to challenge the audience's perception.
+
+The narrative follows Dom Cobb, a brain-hacker specializing in industrial espionage by invading dreaming minds. Haunted by the memory of his late wife, Cobb must assemble a specialist team to perform "inception"—planting an idea rather than stealing one.
+
+The film's visual imagination is grounded in practical effects, such as the folding streets of Paris and the rotating hallway fight. These sequences provide a tactile reality to the otherwise surreal landscape of the subconscious.
+
+While the film relies heavily on technical exposition and mechanical rules, it is anchored by an emotional core involving parental longing and the weight of grief. The ensemble cast provides the necessary humanity to balance the complex, multi-layered logic.
+---
+VERDICT:
+A breathtaking reinvention of the sci-fi genre that compensates for dense exposition with staggering fantasy set pieces and unparalleled technical mastery.
+
+---
+

@@ -1,0 +1,35 @@
+TYPE: Movie Review
+MOVIE: Tokyo Godfathers
+SOURCE: The New York Times
+AUTHOR: A.O. Scott
+YEAR: 2003
+GENRE: Animation / Comedy / Drama
+
+---
+THEMES:
+Redemption and second chances
+Chosen family
+Social invisibility
+Human connection and belonging
+Human conflict
+---
+TONE:
+Heartfelt
+Humorous
+Bittersweet
+Realistic
+Compassionate
+---
+REVIEW:
+Satoshi Kon’s Tokyo Godfathers is a vibrant and deeply humane animated film that reimagines the "foundling" narrative within modern Tokyo. Unlike his psychological works, this film embraces a grounded and emotionally rich storytelling approach.
+
+The story follows three marginalized individuals—a middle-aged alcoholic, a transgender woman, and a teenage runaway—who discover an abandoned baby on Christmas Eve. This event sets them on a journey that forces them to confront their past and redefine their sense of belonging.
+
+The film explores themes of redemption and chosen family, portraying characters often ignored by society. Through their care for the child, they regain dignity and purpose.
+
+Visually, the film presents a gritty yet detailed version of Tokyo, avoiding the polished aesthetics typical of animation. Humor and emotional depth coexist, making the characters feel authentic and relatable.
+---
+VERDICT:
+A heartfelt and unconventional urban tale that blends realism with optimism, highlighting human resilience and empathy.
+
+---

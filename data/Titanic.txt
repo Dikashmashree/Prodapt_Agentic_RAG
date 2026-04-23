@@ -1,0 +1,32 @@
+TYPE: Movie Review
+MOVIE: Titanic
+SOURCE: Los Angeles Times
+AUTHOR: Kenneth Turan
+YEAR: 1997
+GENRE: Romance / Drama
+
+---
+THEMES:
+Class divide and social hierarchy
+Love and sacrifice
+Fate and tragedy
+Survival and loss
+Memory and legacy
+---
+TONE:
+Sweeping
+Romantic
+Tragic
+Sentimental
+Epic
+---
+REVIEW:
+James Cameron’s Titanic is both a grand romance and a historical epic, intertwining a fictional love story with one of the most infamous maritime disasters in history. The film follows Rose, a young aristocrat trapped in societal expectations, and Jack, a free-spirited artist, as they fall in love aboard the doomed ship. Their relationship becomes a symbol of passion and freedom against the rigid constraints of class.
+
+Visually, Titanic is a technical marvel. Cameron’s meticulous recreation of the ship and the disaster sequence set new standards for cinematic spectacle. The film balances intimate character moments with large-scale disaster imagery, ensuring that the human story remains central amid the chaos. Leonardo DiCaprio and Kate Winslet deliver performances that capture youthful intensity and vulnerability, while Billy Zane embodies the oppressive force of wealth and control.
+
+Culturally, Titanic became a phenomenon, dominating the box office and winning 11 Academy Awards. Its iconic imagery — the bow embrace, the sinking ship — and Celine Dion’s “My Heart Will Go On” cemented its place in popular culture. Beyond its commercial success, the film sparked renewed interest in the historical tragedy and remains a touchstone for cinematic romance.
+---
+VERDICT:
+Titanic is a sweeping blend of spectacle and intimacy, a film that transcends its blockbuster scale to deliver a timeless love story framed by tragedy, ensuring its enduring legacy in cinema history.
+---

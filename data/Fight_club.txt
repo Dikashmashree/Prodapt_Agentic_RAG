@@ -1,0 +1,32 @@
+TYPE: Movie Review
+MOVIE: Fight Club
+SOURCE: The Guardian
+AUTHOR: Peter Bradshaw
+YEAR: 1999
+GENRE: Drama / Thriller
+
+---
+THEMES:
+Identity and self-destruction
+Masculinity and societal expectations
+Consumerism and capitalism
+Chaos versus control
+Alienation and rebellion
+---
+TONE:
+Darkly satirical
+Violent
+Psychological
+Unsettling
+Ironic
+---
+REVIEW:
+David Fincher’s Fight Club adapts Chuck Palahniuk’s novel into a visceral exploration of identity, masculinity, and the emptiness of consumer culture. The story follows an unnamed narrator, played by Edward Norton, whose insomnia and disillusionment with modern life lead him to form a bond with the anarchic Tyler Durden, portrayed by Brad Pitt. Together, they create an underground fight club that spirals into a dangerous movement.
+
+The film’s narrative structure blurs reality and delusion, culminating in a shocking twist that reframes the entire story. Fincher’s direction emphasizes a gritty, industrial aesthetic, with stark visuals and a frenetic editing style that mirrors the protagonist’s psychological unraveling. Helena Bonham Carter’s performance as Marla Singer adds a sardonic counterpoint, embodying both vulnerability and cynicism.
+
+Culturally, Fight Club became a lightning rod for debate. Some hailed it as a critique of consumerist malaise and toxic masculinity, while others worried it glamorized violence and nihilism. Its quotable lines — “The first rule of Fight Club is…” — entered popular culture, and its themes continue to resonate in discussions about identity and rebellion against societal norms.
+---
+VERDICT:
+A provocative and polarizing film, Fight Club remains a landmark of late-1990s cinema, challenging audiences with its blend of psychological depth, anarchic energy, and biting social commentary.
+---

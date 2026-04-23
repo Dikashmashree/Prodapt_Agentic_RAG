@@ -1,0 +1,32 @@
+TYPE: Movie Review
+MOVIE: Black Swan
+SOURCE: The Hollywood Reporter
+AUTHOR: Todd McCarthy
+YEAR: 2010
+GENRE: Psychological Thriller / Drama
+
+---
+THEMES:
+Artistic obsession and perfection
+Duality of self
+Madness and paranoia
+Sexual repression and liberation
+Control versus freedom
+---
+TONE:
+Intense
+Psychological
+Dark
+Seductive
+Claustrophobic
+---
+REVIEW:
+Darren Aronofsky’s Black Swan is a haunting psychological thriller that explores the destructive pursuit of artistic perfection. The film centers on Nina, a ballerina portrayed by Natalie Portman, whose ambition to embody both the purity of the White Swan and the sensuality of the Black Swan in *Swan Lake* drives her into a spiral of paranoia and delusion. Her rivalry with fellow dancer Lily, played by Mila Kunis, intensifies her descent, blurring the line between reality and hallucination.
+
+Aronofsky’s direction creates a claustrophobic atmosphere, using tight framing and unsettling sound design to immerse viewers in Nina’s fractured psyche. Portman delivers a career-defining performance, capturing both vulnerability and ferocity, while Vincent Cassel’s manipulative artistic director adds layers of tension. The film’s visual style, with its stark contrasts and visceral imagery, mirrors Nina’s psychological unraveling, culminating in a finale that is both triumphant and tragic.
+
+Culturally, Black Swan sparked widespread discussion about the pressures of artistic excellence and the psychological toll of performance. It was lauded for its bold fusion of horror and psychological drama, earning Portman an Academy Award for Best Actress. The film’s exploration of duality and obsession resonated deeply, cementing its place as one of Aronofsky’s most impactful works.
+---
+VERDICT:
+Black Swan is a mesmerizing and unsettling portrait of artistic obsession, blending psychological horror with ballet’s elegance to deliver a film that is both beautiful and terrifying.
+---
